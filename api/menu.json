@@ -1,0 +1,82 @@
+[
+  {
+    "title": "Masala Dosa",
+    "rating": "4.3",
+    "price": 80,
+    "veg": true,
+    "available": true,
+    "imageUrl": "https://cdn.pixabay.com/photo/2017/02/15/16/49/dosa-2069313_960_720.jpg"
+  },
+  {
+    "title": "Fried Rice + Chilly Gobi + 2 Roti",
+    "rating": "4.1",
+    "price": 160,
+    "veg": true,
+    "available": false,
+    "imageUrl": "https://images.unsplash.com/photo-1593560704563-f176a2eb61db?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTF8fGluZGlhbiUyMGZvb2R8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60"
+  },
+  {
+    "title": "Chicken Kolapuri",
+    "rating": "4.7",
+    "price": 245,
+    "veg": false,
+    "available": true,
+    "imageUrl": "https://images.unsplash.com/photo-1604908176997-125f25cc6f3d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8Y2hpY2tlbiUyMGRpc2h8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60"
+  },
+  {
+    "title": "Honey Mojito",
+    "rating": "4.4",
+    "price": 80,
+    "veg": true,
+    "available": true,
+    "imageUrl": "https://images.unsplash.com/photo-1575596510825-f748919a2bf7?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTh8fG1vaml0b3N8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60"
+  },
+  {
+    "title": "Chicken Kebab",
+    "rating": "4.7",
+    "price": 210,
+    "veg": false,
+    "available": true,
+    "imageUrl": "https://images.unsplash.com/photo-1603360946369-dc9bb6258143?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NXx8Y2hpY2tlbiUyMGRpc2h8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60"
+  },
+  {
+    "title": "Paneer Butter Masala",
+    "rating": "4.5",
+    "price": 110,
+    "veg": true,
+    "available": true,
+    "imageUrl": "https://images.unsplash.com/photo-1603894584373-5ac82b2ae398?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80"
+  },
+  {
+    "title": "Fried Chicken",
+    "rating": "4.4",
+    "price": 140,
+    "veg": false,
+    "available": true,
+    "imageUrl": "https://images.unsplash.com/photo-1569691899455-88464f6d3ab1?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTZ8fGNoaWNrZW4lMjBmb29kfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60"
+  },
+  {
+    "title": "Veg Pulao",
+    "rating": "4.0",
+    "price": 95,
+    "veg": true,
+    "available": false,
+    "imageUrl": "https://images.unsplash.com/photo-1630409351217-bc4fa6422075?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1238&q=80"
+  },
+  {
+    "title": "Veg Meals",
+    "rating": "4.4",
+    "price": 110,
+    "veg": true,
+    "available": true,
+    "imageUrl": "https://images.unsplash.com/photo-1567337710282-00832b415979?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1330&q=80"
+  },
+  {
+    "title": "Chicken Biriyani",
+    "rating": "4.6",
+    "price": 160,
+    "veg": false,
+    "available": true,
+    "imageUrl": "https://images.unsplash.com/photo-1589302168068-964664d93dc0?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8aW5kaWFuJTIwZm9vZHxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60"
+  }
+]

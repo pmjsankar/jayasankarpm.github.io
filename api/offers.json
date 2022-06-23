@@ -1,0 +1,44 @@
+[
+  {
+    "code": "APAY50",
+    "title": "Get 50% cashback using Amazon Pay wallet",
+    "desc": "Maximum cashback up to ₹120",
+    "available": true,
+    "imageUrl": "https://pmjsankar.github.io/api/img/apay.jpg"
+  },
+  {
+    "code": "FEAST40",
+    "title": "Get 40% off using HDFC bank debit cards",
+    "desc": "Maximum cashback up to ₹100",
+    "available": true,
+    "imageUrl": "https://pmjsankar.github.io/api/img/hdfc.jpg"
+  },
+  {
+    "code": "DINE60",
+    "title": "Get 60% off using ICICI bank credit cards",
+    "desc": "Valid on total value of items worth ₹149",
+    "available": true,
+    "imageUrl": "https://pmjsankar.github.io/api/img/icici.png"
+  },
+  {
+    "code": "PAYTMKARO",
+    "title": "Get 30% cashback up to ₹40 using PayTM wallet",
+    "desc": "Valid on total value of items worth ₹149",
+    "available": true,
+    "imageUrl": "https://pmjsankar.github.io/api/img/icici.png"
+  },
+  {
+    "code": "JUMBO",
+    "title": "Get 60% cashback up to ₹100 using PhonePe wallet",
+    "desc": "Valid on total value of items worth ₹199",
+    "available": true,
+    "imageUrl": "https://pmjsankar.github.io/api/img/phonepe.png"
+  },
+  {
+    "code": "SUMMERTREAT",
+    "title": "Get 50% off up to ₹100 using Payzapp wallet",
+    "desc": "Valid on total value of items worth ₹199",
+    "available": false,
+    "imageUrl": "https://pmjsankar.github.io/api/img/hdfc.jpg"
+  }
+]
