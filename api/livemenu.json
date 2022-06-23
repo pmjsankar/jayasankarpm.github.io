@@ -1,0 +1,62 @@
+[
+  {
+    "title": "Taco Bells",
+    "price": "₹150",
+    "rating": "4.5",
+    "offer": "30",
+    "timing": "11am to 11pm",
+    "address": "Kakkanad, Kochi",
+    "desc": "Mexican, Fast Food, Wraps, Beverages",
+    "imageUrl": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/xugajrjlu06blbazyqtz"
+  },
+  {
+    "title": "Chillies",
+    "price": "₹280",
+    "rating": "4.1",
+    "offer": "40",
+    "timing": "8am to 3pm",
+    "address": "Vazhakala, Kochi",
+    "desc": "Biryani, Arabian, Jamaican, Beverages",
+    "imageUrl": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/teyaeczoeafguytsr7io"
+  },
+  {
+    "title": "Paragon",
+    "price": "₹220",
+    "rating": "3.4",
+    "offer": "50",
+    "timing": "07:30am to 9pm",
+    "address": "Edapally, Kochi",
+    "desc": "Kerala, South Indian, Continental, North Indian, Seafood, Chinese",
+    "imageUrl": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/bq9qd9w0ynzphrlapk39"
+  },
+  {
+    "title": "Subways",
+    "price": "₹175",
+    "rating": "4.6",
+    "offer": "30",
+    "timing": "10am to 10pm",
+    "address": "Padivattam, Kochi",
+    "desc": "Fast Food, Beverages",
+    "imageUrl": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/bu6v0etiaadrdmx8vhfa"
+  },
+  {
+    "title": "McDonalder's",
+    "price": "₹160",
+    "rating": "3.8",
+    "offer": "30",
+    "timing": "11am to 11:30pm",
+    "address": "Vytila, Kochi",
+    "desc": "Burger, Fast Food, Desserts, Coffee",
+    "imageUrl": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/y8wlsptfbgrkm3xoklrr"
+  },
+  {
+    "title": "Chaitanya",
+    "price": "₹620",
+    "rating": "4.5",
+    "offer": "20",
+    "timing": "07:30am to 9pm",
+    "address": "Kaloor, Kochi",
+    "desc": "Continental, North Indian, Seafood, Chinese, Malwani, Maharashtrian, Beverages",
+    "imageUrl": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/bq9qd9w0ynzphrlapk39"
+  }
+]
