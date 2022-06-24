@@ -28,17 +28,17 @@
     "imageUrl": "https://pmjsankar.github.io/api/img/paytm.png"
   },
   {
-    "code": "JUMBO",
-    "title": "Get 60% cashback up to ₹100 using PhonePe wallet",
+    "code": "WELCOMEBACK",
+    "title": "Use code WELCOMEBACK & get 50% off",
     "desc": "Valid on total value of items worth ₹199",
     "available": true,
-    "imageUrl": "https://pmjsankar.github.io/api/img/phonepe.png"
+    "imageUrl": ""
   },
   {
     "code": "SUMMERTREAT",
-    "title": "Get 50% off up to ₹100 using Payzapp wallet",
-    "desc": "Valid on total value of items worth ₹199",
+    "title": "Use code SUMMERTREAT & get 20% off",
+    "desc": "Valid on total value of items worth ₹129",
     "available": false,
-    "imageUrl": "https://pmjsankar.github.io/api/img/hdfc.jpg"
+    "imageUrl": ""
   }
 ]
