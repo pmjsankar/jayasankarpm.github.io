@@ -22,23 +22,23 @@
   },
   {
     "code": "PAYTMKARO",
-    "title": "Get 30% cashback up to ₹40 using PayTM wallet",
+    "title": "Get 30% cashback up to ₹40 using Paytm",
     "desc": "Valid on total value of items worth ₹149",
     "available": true,
     "imageUrl": "https://pmjsankar.github.io/api/img/paytm.png"
   },
   {
     "code": "WELCOMEBACK",
-    "title": "Use code WELCOMEBACK & get 50% off",
-    "desc": "Valid on total value of items worth ₹199",
+    "title": "Get 40% cashback up to ₹75 using Google pay",
+    "desc": "Valid on orders above ₹199",
     "available": true,
-    "imageUrl": ""
+    "imageUrl": "https://pmjsankar.github.io/api/img/gpay.png"
   },
   {
     "code": "SUMMERTREAT",
-    "title": "Use code SUMMERTREAT & get 20% off",
-    "desc": "Valid on total value of items worth ₹129",
+    "title": "Get 60% cashback up to ₹60 using Mobikwik",
+    "desc": "Valid on select restaurants",
     "available": false,
-    "imageUrl": ""
+    "imageUrl": "https://pmjsankar.github.io/api/img/mobikwik.webp"
   }
 ]
