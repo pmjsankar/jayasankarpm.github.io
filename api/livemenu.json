@@ -7,7 +7,11 @@
     "timing": "11am to 11pm",
     "address": "Kakkanad, Kochi",
     "desc": "Mexican, Fast Food, Wraps, Beverages",
-    "imageUrl": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/xugajrjlu06blbazyqtz"
+    "imageUrl": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/xugajrjlu06blbazyqtz",
+    "location": "Kakkanad",
+    "distance": "1.2km",
+    "deliveryTime": "30 Mins",
+    "offerDesc": "20% OFF \\n UPTO ₹80"
   },
   {
     "title": "Chillies",
@@ -17,7 +21,11 @@
     "timing": "8am to 3pm",
     "address": "Vazhakala, Kochi",
     "desc": "Biryani, Arabian, Jamaican, Beverages",
-    "imageUrl": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/teyaeczoeafguytsr7io"
+    "imageUrl": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/teyaeczoeafguytsr7io",
+    "location": "Kakkanad",
+    "distance": "1.2km",
+    "deliveryTime": "30 Mins",
+    "offerDesc": "20% OFF \\n UPTO ₹80"
   },
   {
     "title": "Paragon",
@@ -27,7 +35,11 @@
     "timing": "07:30am to 9pm",
     "address": "Edapally, Kochi",
     "desc": "Kerala, South Indian, Continental, North Indian, Seafood, Chinese",
-    "imageUrl": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/bq9qd9w0ynzphrlapk39"
+    "imageUrl": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/bq9qd9w0ynzphrlapk39",
+    "location": "Kakkanad",
+    "distance": "1.2km",
+    "deliveryTime": "30 Mins",
+    "offerDesc": "20% OFF \\n UPTO ₹80"
   },
   {
     "title": "Subways",
@@ -37,7 +49,11 @@
     "timing": "10am to 10pm",
     "address": "Padivattam, Kochi",
     "desc": "Fast Food, Beverages",
-    "imageUrl": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/bu6v0etiaadrdmx8vhfa"
+    "imageUrl": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/bu6v0etiaadrdmx8vhfa",
+    "location": "Kakkanad",
+    "distance": "1.2km",
+    "deliveryTime": "30 Mins",
+    "offerDesc": "20% OFF \\n UPTO ₹80"
   },
   {
     "title": "McDonalder's",
@@ -47,7 +63,11 @@
     "timing": "11am to 11:30pm",
     "address": "Vytila, Kochi",
     "desc": "Burger, Fast Food, Desserts, Coffee",
-    "imageUrl": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/y8wlsptfbgrkm3xoklrr"
+    "imageUrl": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/y8wlsptfbgrkm3xoklrr",
+    "location": "Kakkanad",
+    "distance": "1.2km",
+    "deliveryTime": "30 Mins",
+    "offerDesc": "20% OFF \\n UPTO ₹80"
   },
   {
     "title": "Chaitanya",
@@ -57,6 +77,10 @@
     "timing": "07:30am to 9pm",
     "address": "Kaloor, Kochi",
     "desc": "Continental, North Indian, Seafood, Chinese, Malwani, Maharashtrian, Beverages",
-    "imageUrl": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/bq9qd9w0ynzphrlapk39"
+    "imageUrl": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/bq9qd9w0ynzphrlapk39",
+    "location": "Kakkanad",
+    "distance": "1.2km",
+    "deliveryTime": "30 Mins",
+    "offerDesc": "20% OFF \\n UPTO ₹80"
   }
 ]
